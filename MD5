@@ -1,8 +1,8 @@
-010156388d89aef56940264582985746 *ChangeLog
-0eed3a914e33f2e731e1193db9b27109 *DESCRIPTION
+e023cdd26fd160fae01ec771d0457281 *ChangeLog
+b01f13dd02940bcffb4e4aecfad17b7e *DESCRIPTION
 4dfcc99f77924ca7575d3a9460aa2e46 *NAMESPACE
-66533b1465629c9c866ff8b4c5b0ac0c *R/rmsfact.R
-8437d12cabc1833b7fac9b72c028869d *README.md
-9073a5a339e9836441ea446b9ce1536b *inst/NEWS.Rd
+2c9fc811cbdb9eadf6584a45d878adf2 *R/rmsfact.R
+3d380fb59de0a7e6d4ecdd7fa435e111 *README.md
+8d45ed3fc1392ffe7dcd5e3c7fbcddb8 *inst/NEWS.Rd
 d6f55e2d537b2483a4af7893c39c86b3 *inst/rmsfact/rmsfact.txt
-7db286659eeee8fe4b8faeeb477c6968 *man/rmsfact.Rd
+8da98a0123f89a6ef912a9e6620848be *man/rmsfact.Rd

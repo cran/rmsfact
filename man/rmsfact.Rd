@@ -5,11 +5,14 @@
 \alias{rmsfact}
 \title{Display a Random Fact about Richard M. Stallman}
 \usage{
-rmsfact()
+rmsfact(ind)
 
 \method{print}{rmsfact}(x, width = NULL, ...)
 }
 \arguments{
+\item{ind}{Optional index of a quote; if missing a random value is
+sampled}
+
 \item{x}{Default object for \code{print} method}
 
 \item{width}{Optional column width parameter}
@@ -29,7 +32,7 @@ This function displays a randomly chosen line from the included
 data set of of random \sQuote{facts} about Richard M. Stallman.
 The function is a port of the GNU Octave function \code{fact}
 doing the same, and written by Jordi Gutiérrez Hermoso based on
-the (now defunct) site \url{http://www.stallmanfacts.com}.
+the (now defunct) site \code{stallmanfacts.com}.
 }
 \examples{
   set.seed(123)
